@@ -1,2 +1,2 @@
 # MultiGrep
-Herramienta de búsqueda en archivos basada en expresiones regulares, optimizada mediante un pool estático de procesos multiparalelos, diseñada para eficiencia en archivos de gran tamaño.
+A regular expression-based file search tool optimized using a static multi-process pool, designed for efficiency in large files.
